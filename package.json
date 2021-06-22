@@ -1,0 +1,23 @@
+{
+  "name": "fade-learning-page",
+  "version": "1.0.0",
+  "description": "Learning fade transition with Gsap Highway ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grarizki/fade-learning-page.git"
+  },
+  "keywords": [
+    "gsap",
+    "highway"
+  ],
+  "author": "Grarizki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grarizki/fade-learning-page/issues"
+  },
+  "homepage": "https://github.com/grarizki/fade-learning-page#readme"
+}
