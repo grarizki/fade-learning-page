@@ -55,4 +55,14 @@
   background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #8e8e8e;
+  color: white;
+  text-align: center;
+}
+
 /*# sourceMappingURL=/style.e0c02e61.css.map */
